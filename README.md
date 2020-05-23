@@ -13,4 +13,4 @@ repositorio: el nombre de tu repositorio
 rama: la rama del repositorio, normalmente es la master
 ruta/al/asset: la ruta que contiene tu asset
 
-![Aquí la descripción de la imagen por si no carga](https://raw.githubusercontent.com/heinHertz/PruebaMacowins/blob/master/TPA%202020%20-%20Dise%C3%B1o%20de%20Sistemas/assets/20vDiagrama%20Clases.jpeg)
+![Aquí la descripción de la imagen por si no carga](https://raw.githubusercontent.com/heinHertz/PruebaMacowins/blob/master/diagrama.jpeg)
