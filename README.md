@@ -13,4 +13,4 @@ repositorio: el nombre de tu repositorio
 rama: la rama del repositorio, normalmente es la master
 ruta/al/asset: la ruta que contiene tu asset
 
-![Aquí la descripción de la imagen por si no carga](https://raw.githubusercontent.com/heinHertz/PruebaMacowins/blob/master/diagrama.jpeg)
+![Aquí la descripción de la imagen por si no carga](https://raw.githubusercontent.com/heinHertz/PruebaMacowins/master/diagrama.jpeg)
